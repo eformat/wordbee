@@ -65,8 +65,8 @@ body {
     left: 446px;
     width: 141px;
     height: 152px;
-    /* background: url(../images/Bee-MainMenu.png); */
-    background: url(../images/MainMenu-ButterflyIcon.png);
+    background: url(../images/Bee-MainMenu.png);
+    /*background: url(../images/MainMenu-ButterflyIcon.png);*/
 }
 
 .main_wings {
